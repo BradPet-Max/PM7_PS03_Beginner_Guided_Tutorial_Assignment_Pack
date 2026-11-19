@@ -1,0 +1,9 @@
+request_id,resolution_days,sentiment_label,resident_comment
+SR00001,12.9,negative,Angry about the wait. Nobody explained the delay.
+SR00002,4.7,neutral,Work completed as logged.
+SR00003,2.5,positive,Team arrived quickly and fixed the issue. Thank you.
+SR00004,15.6,negative,Poor communication and slow repair. Not resolved properly.
+SR00005,1.3,positive,"Happy with the repair, well done CityConnect."
+SR00006,23.6,negative,Still leaking after the visit. Very delayed and frustrating.
+SR00007,16.0,negative,Angry about the wait. Nobody explained the delay.
+SR00008,2.0,positive,Fixed on the first visit. Appreciate the update.

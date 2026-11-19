@@ -1,0 +1,421 @@
+request_id,opened_on,closed_on,service_type,region,priority,resolution_days,satisfaction_rating,travel_minutes,resident_comment
+SR00001,2026-03-13,2026-03-26,Water,South,Medium,12.9,2,38,Angry about the wait. Nobody explained the delay.
+SR00002,2026-02-09,2026-02-14,Water,CBD,High,4.7,4,12,Work completed as logged.
+SR00003,2026-05-25,2026-05-28,Water,South,Low,2.5,5,38,Team arrived quickly and fixed the issue. Thank you.
+SR00004,2026-03-03,2026-03-19,Sanitation,West,Medium,15.6,2,34,Poor communication and slow repair. Not resolved properly.
+SR00005,2026-05-08,2026-05-10,Waste,West,High,1.3,5,34,"Happy with the repair, well done CityConnect."
+SR00006,2026-01-19,2026-02-12,Water,CBD,Low,23.6,1,12,Still leaking after the visit. Very delayed and frustrating.
+SR00007,2026-01-10,2026-01-26,Roads,West,Low,16.0,1,34,Angry about the wait. Nobody explained the delay.
+SR00008,2026-04-18,2026-04-20,Waste,West,Medium,2.0,4,34,Fixed on the first visit. Appreciate the update.
+SR00009,2026-06-01,2026-06-07,Water,South,High,6.5,5,38,This took far too long. The outage was terrible.
+SR00010,2026-04-07,2026-04-22,Water,East,Low,15.0,1,25,This took far too long. The outage was terrible.
+SR00011,2026-05-17,2026-05-21,Sanitation,CBD,Medium,4.0,4,12,Request closed after the scheduled visit.
+SR00012,2026-02-23,2026-03-28,Water,West,Medium,32.6,1,34,Poor communication and slow repair. Not resolved properly.
+SR00013,2026-05-15,2026-05-19,Waste,North,Low,4.1,4,22,Technician attended and marked the job done.
+SR00014,2026-04-22,2026-04-26,Electricity,North,High,4.2,3,22,Poor communication and slow repair. Not resolved properly.
+SR00015,2026-02-17,2026-02-24,Water,West,Medium,7.0,3,34,"Happy with the repair, well done CityConnect."
+SR00016,2026-05-17,2026-05-20,Electricity,CBD,Low,2.8,5,12,Team arrived quickly and fixed the issue. Thank you.
+SR00017,2026-01-11,2026-01-14,Electricity,CBD,Medium,2.5,5,12,Fixed on the first visit. Appreciate the update.
+SR00018,2026-03-01,2026-03-02,Waste,South,Medium,1.4,5,38,"Happy with the repair, well done CityConnect."
+SR00019,2026-06-24,2026-07-01,Water,South,Medium,6.8,4,38,Technician attended and marked the job done.
+SR00020,2026-02-04,2026-02-17,Electricity,South,Low,13.5,1,38,This took far too long. The outage was terrible.
+SR00021,2026-03-15,2026-03-22,Sanitation,East,Medium,7.3,5,25,Fixed on the first visit. Appreciate the update.
+SR00022,2026-05-13,2026-05-25,Water,East,Low,11.8,1,25,Angry about the wait. Nobody explained the delay.
+SR00023,2026-05-18,2026-06-22,Water,North,Medium,34.9,2,22,Angry about the wait. Nobody explained the delay.
+SR00024,2026-02-17,2026-02-21,Roads,CBD,Low,4.1,5,12,Still leaking after the visit. Very delayed and frustrating.
+SR00025,2026-05-06,2026-06-25,Water,South,High,50.4,3,38,This took far too long. The outage was terrible.
+SR00026,2026-06-15,2026-06-25,Water,North,Low,9.8,3,22,Work completed as logged.
+SR00027,2026-03-13,2026-03-15,Waste,West,Low,2.5,5,34,"Great service, the problem is resolved."
+SR00028,2026-05-19,2026-05-22,Roads,CBD,Low,3.4,4,12,"Happy with the repair, well done CityConnect."
+SR00029,2026-03-29,2026-04-28,Water,North,Medium,29.9,2,22,This took far too long. The outage was terrible.
+SR00030,2026-03-06,2026-03-10,Waste,East,Low,4.0,4,25,Technician attended and marked the job done.
+SR00031,2026-06-05,2026-06-10,Sanitation,North,Low,4.9,5,22,This took far too long. The outage was terrible.
+SR00032,2026-01-12,2026-01-25,Roads,North,Medium,13.2,3,22,This took far too long. The outage was terrible.
+SR00033,2026-02-25,2026-04-04,Water,West,Medium,38.1,3,34,Angry about the wait. Nobody explained the delay.
+SR00034,2026-03-07,2026-03-12,Roads,CBD,Low,4.9,5,12,Still leaking after the visit. Very delayed and frustrating.
+SR00035,2026-03-05,2026-03-19,Roads,West,Medium,13.4,2,34,This took far too long. The outage was terrible.
+SR00036,2026-01-22,2026-01-25,Waste,East,Low,2.8,5,25,Fixed on the first visit. Appreciate the update.
+SR00037,2026-01-23,2026-02-10,Water,East,Medium,18.6,3,25,Still leaking after the visit. Very delayed and frustrating.
+SR00038,2026-05-01,2026-05-03,Electricity,North,High,1.8,5,22,Fixed on the first visit. Appreciate the update.
+SR00039,2026-02-08,2026-02-11,Waste,West,Low,2.9,4,34,Fixed on the first visit. Appreciate the update.
+SR00040,2026-04-18,2026-05-02,Water,West,Low,14.0,1,34,Still leaking after the visit. Very delayed and frustrating.
+SR00041,2026-05-15,2026-05-24,Roads,East,Medium,9.3,4,25,"Happy with the repair, well done CityConnect."
+SR00042,2026-01-18,2026-02-06,Electricity,West,Medium,19.2,2,34,Angry about the wait. Nobody explained the delay.
+SR00043,2026-06-28,2026-07-19,Water,East,Low,20.5,1,25,Still leaking after the visit. Very delayed and frustrating.
+SR00044,2026-05-11,2026-05-16,Electricity,East,Medium,4.7,5,25,"Great service, the problem is resolved."
+SR00045,2026-06-07,2026-06-12,Waste,East,Low,5.5,5,25,Work completed as logged.
+SR00046,2026-02-16,2026-02-24,Roads,East,High,7.4,3,25,This took far too long. The outage was terrible.
+SR00047,2026-02-20,2026-03-01,Water,North,Low,8.8,4,22,Request closed after the scheduled visit.
+SR00048,2026-04-21,2026-04-29,Water,South,Medium,8.3,4,38,This took far too long. The outage was terrible.
+SR00049,2026-03-19,2026-03-24,Roads,North,Low,5.3,4,22,Work completed as logged.
+SR00050,2026-05-03,2026-05-05,Water,CBD,Medium,1.5,5,12,Team arrived quickly and fixed the issue. Thank you.
+SR00051,2026-01-16,2026-01-18,Water,West,Low,2.0,5,34,Fixed on the first visit. Appreciate the update.
+SR00052,2026-06-07,2026-07-31,Water,South,Low,53.9,3,38,Poor communication and slow repair. Not resolved properly.
+SR00053,2026-03-19,2026-03-26,Electricity,CBD,Medium,7.2,3,12,Request closed after the scheduled visit.
+SR00054,2026-04-16,2026-04-19,Sanitation,CBD,Low,3.0,4,12,"Happy with the repair, well done CityConnect."
+SR00055,2026-03-28,2026-04-15,Roads,North,Medium,17.9,1,22,Poor communication and slow repair. Not resolved properly.
+SR00056,2026-04-12,2026-04-16,Roads,North,Low,4.2,4,22,Angry about the wait. Nobody explained the delay.
+SR00057,2026-03-07,2026-03-08,Sanitation,CBD,High,0.8,4,12,"Great service, the problem is resolved."
+SR00058,2026-03-07,2026-03-20,Roads,North,Medium,13.1,2,22,Poor communication and slow repair. Not resolved properly.
+SR00059,2026-06-14,2026-06-18,Electricity,East,Medium,3.9,4,25,Team arrived quickly and fixed the issue. Thank you.
+SR00060,2026-06-22,2026-06-26,Waste,North,Medium,3.5,4,22,"Great service, the problem is resolved."
+SR00061,2026-06-20,2026-06-22,Electricity,East,Medium,2.6,4,25,"Great service, the problem is resolved."
+SR00062,2026-02-01,2026-02-02,Electricity,East,Medium,0.6,4,25,"Great service, the problem is resolved."
+SR00063,2026-04-18,2026-05-07,Water,East,Medium,19.3,2,25,Angry about the wait. Nobody explained the delay.
+SR00064,2026-02-03,2026-02-04,Waste,CBD,Low,1.3,4,12,Fixed on the first visit. Appreciate the update.
+SR00065,2026-04-29,2026-06-02,Water,West,Medium,33.8,3,34,Poor communication and slow repair. Not resolved properly.
+SR00066,2026-02-04,2026-02-16,Water,West,Medium,11.8,2,34,This took far too long. The outage was terrible.
+SR00067,2026-05-18,2026-05-28,Roads,East,Low,10.1,2,25,Angry about the wait. Nobody explained the delay.
+SR00068,2026-06-04,2026-06-08,Sanitation,North,Medium,4.1,3,22,Request closed after the scheduled visit.
+SR00069,2026-05-24,2026-05-26,Water,South,Medium,2.0,5,38,"Happy with the repair, well done CityConnect."
+SR00070,2026-03-01,2026-03-12,Sanitation,West,Medium,10.9,3,34,Still leaking after the visit. Very delayed and frustrating.
+SR00071,2026-01-23,2026-01-28,Electricity,South,Medium,4.6,5,38,Request closed after the scheduled visit.
+SR00072,2026-06-21,2026-08-08,Roads,East,Low,48.2,3,25,Still leaking after the visit. Very delayed and frustrating.
+SR00073,2026-05-21,2026-05-22,Electricity,West,Low,1.0,5,34,"Great service, the problem is resolved."
+SR00074,2026-03-26,2026-04-07,Electricity,West,Low,11.9,3,34,Angry about the wait. Nobody explained the delay.
+SR00075,2026-01-16,2026-01-22,Electricity,North,Medium,6.5,5,22,Work completed as logged.
+SR00076,2026-06-19,2026-06-21,Waste,North,Low,2.3,5,22,"Happy with the repair, well done CityConnect."
+SR00077,2026-04-27,2026-05-05,Electricity,West,Medium,7.5,5,34,This took far too long. The outage was terrible.
+SR00078,2026-06-03,2026-06-08,Water,North,Medium,5.1,5,22,"Great service, the problem is resolved."
+SR00079,2026-01-26,2026-02-05,Water,CBD,Medium,10.1,3,12,This took far too long. The outage was terrible.
+SR00080,2026-05-09,2026-05-13,Waste,East,Low,3.6,4,25,"Great service, the problem is resolved."
+SR00081,2026-04-09,2026-04-16,Roads,South,Medium,6.7,4,38,Team arrived quickly and fixed the issue. Thank you.
+SR00082,2026-03-06,2026-03-15,Electricity,East,High,8.5,3,25,Work completed as logged.
+SR00083,2026-01-19,2026-01-31,Electricity,East,Medium,11.4,3,25,This took far too long. The outage was terrible.
+SR00084,2026-05-28,2026-06-15,Water,South,Low,18.2,2,38,Still leaking after the visit. Very delayed and frustrating.
+SR00085,2026-05-04,2026-05-11,Water,CBD,Medium,7.3,5,12,Team arrived quickly and fixed the issue. Thank you.
+SR00086,2026-04-14,2026-04-21,Electricity,North,Low,7.0,5,22,Technician attended and marked the job done.
+SR00087,2026-03-28,2026-04-02,Electricity,CBD,Low,4.9,5,12,"Great service, the problem is resolved."
+SR00088,2026-06-09,2026-06-13,Water,North,Low,3.9,4,22,Fixed on the first visit. Appreciate the update.
+SR00089,2026-01-07,2026-01-11,Electricity,CBD,Medium,4.0,3,12,Fixed on the first visit. Appreciate the update.
+SR00090,2026-04-10,2026-04-16,Water,East,Medium,5.6,3,25,Technician attended and marked the job done.
+SR00091,2026-01-13,2026-01-20,Water,North,Medium,6.8,5,22,This took far too long. The outage was terrible.
+SR00092,2026-02-06,2026-02-07,Water,CBD,Low,0.8,5,12,"Happy with the repair, well done CityConnect."
+SR00093,2026-04-26,2026-05-04,Electricity,West,Low,8.1,4,34,Work completed as logged.
+SR00094,2026-01-16,2026-01-23,Roads,West,Medium,7.1,3,34,Technician attended and marked the job done.
+SR00095,2026-05-06,2026-05-28,Water,South,Low,21.7,1,38,This took far too long. The outage was terrible.
+SR00096,2026-04-12,2026-04-15,Sanitation,North,Medium,3.5,4,22,"Happy with the repair, well done CityConnect."
+SR00097,2026-06-08,2026-06-13,Water,East,Medium,5.0,4,25,Team arrived quickly and fixed the issue. Thank you.
+SR00098,2026-05-08,2026-05-12,Electricity,West,Medium,3.7,4,34,Fixed on the first visit. Appreciate the update.
+SR00099,2026-02-28,2026-03-11,Roads,South,High,11.0,2,38,Angry about the wait. Nobody explained the delay.
+SR00100,2026-06-01,2026-06-05,Electricity,South,Low,3.9,4,38,Team arrived quickly and fixed the issue. Thank you.
+SR00101,2026-04-20,2026-05-03,Electricity,North,Medium,13.3,1,22,Poor communication and slow repair. Not resolved properly.
+SR00102,2026-04-10,2026-04-22,Water,North,Medium,11.9,1,22,Still leaking after the visit. Very delayed and frustrating.
+SR00103,2026-04-03,2026-04-04,Electricity,North,Medium,1.1,4,22,Team arrived quickly and fixed the issue. Thank you.
+SR00104,2026-06-19,2026-06-22,Sanitation,North,Medium,3.4,4,22,"Happy with the repair, well done CityConnect."
+SR00105,2026-01-14,2026-02-04,Water,West,Medium,21.1,2,34,Poor communication and slow repair. Not resolved properly.
+SR00106,2026-05-29,2026-05-30,Electricity,West,Medium,0.5,5,34,"Great service, the problem is resolved."
+SR00107,2026-03-23,2026-03-28,Roads,CBD,High,5.3,5,12,Request closed after the scheduled visit.
+SR00108,2026-01-22,2026-01-26,Water,West,Medium,4.2,5,34,Work completed as logged.
+SR00109,2026-01-23,2026-02-05,Roads,West,Low,12.7,3,34,Angry about the wait. Nobody explained the delay.
+SR00110,2026-02-02,2026-02-08,Roads,East,Low,5.7,5,25,Request closed after the scheduled visit.
+SR00111,2026-02-28,2026-03-08,Sanitation,West,High,7.3,4,34,Work completed as logged.
+SR00112,2026-02-11,2026-02-24,Roads,CBD,High,12.7,3,12,This took far too long. The outage was terrible.
+SR00113,2026-02-13,2026-03-06,Water,West,Medium,20.6,2,34,Poor communication and slow repair. Not resolved properly.
+SR00114,2026-04-28,2026-05-06,Roads,CBD,Medium,8.3,3,12,Still leaking after the visit. Very delayed and frustrating.
+SR00115,2026-01-27,2026-01-28,Water,South,High,0.4,5,38,Team arrived quickly and fixed the issue. Thank you.
+SR00116,2026-04-24,2026-05-06,Electricity,East,Medium,12.0,3,25,This took far too long. The outage was terrible.
+SR00117,2026-04-12,2026-04-22,Electricity,South,Low,9.7,4,38,Technician attended and marked the job done.
+SR00118,2026-03-23,2026-03-26,Electricity,CBD,Medium,2.5,4,12,"Happy with the repair, well done CityConnect."
+SR00119,2026-04-16,2026-04-23,Electricity,North,Medium,6.9,3,22,Technician attended and marked the job done.
+SR00120,2026-06-02,2026-06-10,Water,South,Low,7.8,5,38,Team arrived quickly and fixed the issue. Thank you.
+SR00121,2026-03-09,2026-03-15,Electricity,CBD,Medium,6.1,4,12,Request closed after the scheduled visit.
+SR00122,2026-04-30,2026-05-05,Sanitation,North,High,4.7,3,22,"Great service, the problem is resolved."
+SR00123,2026-03-23,2026-03-29,Roads,South,High,6.3,4,38,Still leaking after the visit. Very delayed and frustrating.
+SR00124,2026-02-25,2026-02-27,Sanitation,South,Medium,1.7,4,38,"Great service, the problem is resolved."
+SR00125,2026-05-15,2026-05-20,Roads,CBD,High,4.5,5,12,"Happy with the repair, well done CityConnect."
+SR00126,2026-05-29,2026-05-31,Electricity,CBD,Low,1.9,5,12,Fixed on the first visit. Appreciate the update.
+SR00127,2026-03-07,2026-03-11,Water,West,Medium,3.5,4,34,"Happy with the repair, well done CityConnect."
+SR00128,2026-05-08,2026-05-19,Electricity,North,Low,11.2,1,22,Angry about the wait. Nobody explained the delay.
+SR00129,2026-03-04,2026-03-08,Roads,North,Medium,4.6,3,22,"Happy with the repair, well done CityConnect."
+SR00130,2026-03-11,2026-03-21,Roads,CBD,High,9.3,4,12,Work completed as logged.
+SR00131,2026-06-20,2026-06-25,Electricity,North,Low,4.8,3,22,Technician attended and marked the job done.
+SR00132,2026-02-16,2026-05-09,Water,South,Low,82.2,3,38,Angry about the wait. Nobody explained the delay.
+SR00133,2026-06-09,2026-06-14,Waste,East,Low,4.5,4,25,"Great service, the problem is resolved."
+SR00134,2026-05-28,2026-06-06,Water,CBD,High,8.8,4,12,Request closed after the scheduled visit.
+SR00135,2026-02-20,2026-02-24,Sanitation,CBD,Low,4.6,3,12,Work completed as logged.
+SR00136,2026-04-14,2026-04-15,Waste,South,Medium,1.4,4,38,"Great service, the problem is resolved."
+SR00137,2026-04-14,2026-04-24,Sanitation,West,Medium,9.8,5,34,Work completed as logged.
+SR00138,2026-03-20,2026-04-01,Water,North,High,12.1,3,22,Poor communication and slow repair. Not resolved properly.
+SR00139,2026-05-31,2026-06-01,Water,West,Medium,1.3,5,34,Fixed on the first visit. Appreciate the update.
+SR00140,2026-06-15,2026-07-16,Water,South,Medium,31.0,1,38,Angry about the wait. Nobody explained the delay.
+SR00141,2026-01-26,2026-01-31,Sanitation,South,High,4.9,5,38,Poor communication and slow repair. Not resolved properly.
+SR00142,2026-03-27,2026-04-03,Electricity,West,Low,7.4,5,34,Technician attended and marked the job done.
+SR00143,2026-04-04,2026-04-05,Waste,CBD,High,1.4,4,12,"Happy with the repair, well done CityConnect."
+SR00144,2026-06-17,2026-06-23,Electricity,South,Low,5.9,3,38,Work completed as logged.
+SR00145,2026-05-27,2026-05-30,Sanitation,West,Medium,2.7,5,34,Fixed on the first visit. Appreciate the update.
+SR00146,2026-02-18,2026-02-25,Waste,South,Low,7.3,5,38,Technician attended and marked the job done.
+SR00147,2026-03-21,2026-03-22,Sanitation,East,High,0.8,5,25,Fixed on the first visit. Appreciate the update.
+SR00148,2026-05-05,2026-05-12,Water,South,Low,7.3,5,38,"Great service, the problem is resolved."
+SR00149,2026-01-14,2026-01-23,Roads,South,High,9.2,5,38,Request closed after the scheduled visit.
+SR00150,2026-04-05,2026-04-09,Sanitation,North,Medium,4.2,4,22,Request closed after the scheduled visit.
+SR00151,2026-04-09,2026-04-12,Waste,CBD,Medium,3.1,4,12,"Happy with the repair, well done CityConnect."
+SR00152,2026-03-02,2026-04-03,Water,West,Medium,32.3,2,34,Angry about the wait. Nobody explained the delay.
+SR00153,2026-01-16,2026-01-18,Waste,North,Low,2.4,4,22,"Great service, the problem is resolved."
+SR00154,2026-01-24,2026-01-28,Waste,North,Medium,4.0,5,22,Work completed as logged.
+SR00155,2026-02-23,2026-02-28,Waste,North,Low,4.9,4,22,Work completed as logged.
+SR00156,2026-01-09,2026-01-25,Water,East,Low,16.2,3,25,This took far too long. The outage was terrible.
+SR00157,2026-01-26,2026-02-09,Water,North,High,13.9,3,22,Poor communication and slow repair. Not resolved properly.
+SR00158,2026-03-17,2026-03-29,Waste,West,Low,12.3,1,34,This took far too long. The outage was terrible.
+SR00159,2026-06-28,2026-07-12,Roads,West,High,13.6,2,34,This took far too long. The outage was terrible.
+SR00160,2026-02-11,2026-02-17,Roads,North,Low,6.3,5,22,Still leaking after the visit. Very delayed and frustrating.
+SR00161,2026-03-16,2026-03-30,Roads,West,Medium,14.1,3,34,Poor communication and slow repair. Not resolved properly.
+SR00162,2026-02-03,2026-02-05,Waste,West,Medium,2.3,4,34,Fixed on the first visit. Appreciate the update.
+SR00163,2026-01-29,2026-02-02,Roads,East,Medium,4.0,4,25,Request closed after the scheduled visit.
+SR00164,2026-04-09,2026-04-18,Electricity,CBD,Medium,9.4,3,12,Work completed as logged.
+SR00165,2026-02-25,2026-03-19,Water,South,High,21.7,2,38,Angry about the wait. Nobody explained the delay.
+SR00166,2026-06-07,2026-07-09,Water,West,Low,32.1,2,34,Angry about the wait. Nobody explained the delay.
+SR00167,2026-02-18,2026-02-19,Roads,CBD,Low,1.3,5,12,Fixed on the first visit. Appreciate the update.
+SR00168,2026-02-01,2026-02-03,Waste,North,Medium,1.5,5,22,"Great service, the problem is resolved."
+SR00169,2026-06-11,2026-06-15,Electricity,West,High,3.7,5,34,Fixed on the first visit. Appreciate the update.
+SR00170,2026-03-02,2026-03-22,Roads,West,Medium,20.1,3,34,Angry about the wait. Nobody explained the delay.
+SR00171,2026-03-07,2026-03-13,Water,CBD,Low,5.8,5,12,Angry about the wait. Nobody explained the delay.
+SR00172,2026-05-07,2026-05-15,Electricity,North,Low,7.7,3,22,Request closed after the scheduled visit.
+SR00173,2026-04-18,2026-04-27,Electricity,CBD,Medium,8.9,5,12,Angry about the wait. Nobody explained the delay.
+SR00174,2026-03-06,2026-03-14,Roads,South,High,7.7,4,38,"Happy with the repair, well done CityConnect."
+SR00175,2026-04-17,2026-05-13,Water,South,Medium,26.5,1,38,This took far too long. The outage was terrible.
+SR00176,2026-02-28,2026-03-05,Sanitation,North,High,5.1,3,22,Fixed on the first visit. Appreciate the update.
+SR00177,2026-05-17,2026-05-27,Roads,East,Medium,10.1,1,25,Angry about the wait. Nobody explained the delay.
+SR00178,2026-04-01,2026-04-09,Roads,West,Low,8.4,3,34,Team arrived quickly and fixed the issue. Thank you.
+SR00179,2026-06-06,2026-06-07,Electricity,East,Medium,0.6,4,25,Fixed on the first visit. Appreciate the update.
+SR00180,2026-04-27,2026-04-28,Electricity,CBD,High,0.4,5,12,Fixed on the first visit. Appreciate the update.
+SR00181,2026-03-01,2026-03-17,Water,South,Medium,15.7,2,38,This took far too long. The outage was terrible.
+SR00182,2026-02-22,2026-03-11,Water,West,High,17.1,2,34,Poor communication and slow repair. Not resolved properly.
+SR00183,2026-06-22,2026-06-24,Waste,CBD,Medium,1.5,4,12,"Happy with the repair, well done CityConnect."
+SR00184,2026-04-04,2026-04-10,Waste,South,Low,6.2,4,38,Request closed after the scheduled visit.
+SR00185,2026-01-09,2026-01-15,Sanitation,East,Low,5.8,5,25,This took far too long. The outage was terrible.
+SR00186,2026-04-11,2026-04-22,Electricity,West,Low,11.0,3,34,Still leaking after the visit. Very delayed and frustrating.
+SR00187,2026-05-19,2026-05-23,Sanitation,West,Medium,4.1,5,34,Request closed after the scheduled visit.
+SR00188,2026-01-11,2026-01-26,Electricity,South,Medium,15.2,1,38,Still leaking after the visit. Very delayed and frustrating.
+SR00189,2026-01-06,2026-01-26,Roads,East,Low,19.9,2,25,Angry about the wait. Nobody explained the delay.
+SR00190,2026-02-01,2026-02-03,Water,North,Medium,2.2,5,22,Team arrived quickly and fixed the issue. Thank you.
+SR00191,2026-04-04,2026-04-23,Water,East,Low,18.9,3,25,This took far too long. The outage was terrible.
+SR00192,2026-03-14,2026-03-17,Water,South,Medium,3.4,5,38,"Great service, the problem is resolved."
+SR00193,2026-06-28,2026-07-02,Electricity,West,Medium,3.7,5,34,Team arrived quickly and fixed the issue. Thank you.
+SR00194,2026-06-28,2026-07-06,Roads,East,High,7.8,3,25,This took far too long. The outage was terrible.
+SR00195,2026-05-11,2026-05-25,Water,East,Medium,13.9,3,25,Angry about the wait. Nobody explained the delay.
+SR00196,2026-01-05,2026-01-18,Roads,East,High,12.6,3,25,Angry about the wait. Nobody explained the delay.
+SR00197,2026-05-22,2026-06-12,Roads,South,Low,20.5,1,38,This took far too long. The outage was terrible.
+SR00198,2026-01-07,2026-01-13,Water,South,Low,5.6,4,38,Work completed as logged.
+SR00199,2026-02-15,2026-02-17,Water,North,High,1.5,4,22,"Great service, the problem is resolved."
+SR00200,2026-04-07,2026-05-02,Water,CBD,Low,25.3,3,12,Angry about the wait. Nobody explained the delay.
+SR00201,2026-06-07,2026-06-11,Sanitation,North,Medium,3.6,4,22,"Great service, the problem is resolved."
+SR00202,2026-03-12,2026-03-17,Waste,North,Low,4.9,5,22,Team arrived quickly and fixed the issue. Thank you.
+SR00203,2026-01-07,2026-01-20,Sanitation,East,Low,13.2,3,25,Angry about the wait. Nobody explained the delay.
+SR00204,2026-03-27,2026-04-22,Water,West,Medium,25.8,2,34,Poor communication and slow repair. Not resolved properly.
+SR00205,2026-03-11,2026-03-20,Electricity,West,Medium,9.3,3,34,This took far too long. The outage was terrible.
+SR00206,2026-04-28,2026-04-29,Water,East,Medium,1.2,4,25,"Great service, the problem is resolved."
+SR00207,2026-03-11,2026-03-26,Roads,South,Medium,14.9,3,38,Poor communication and slow repair. Not resolved properly.
+SR00208,2026-01-20,2026-01-21,Water,CBD,Medium,0.9,4,12,Fixed on the first visit. Appreciate the update.
+SR00209,2026-02-22,2026-02-26,Waste,East,Low,3.4,5,25,"Happy with the repair, well done CityConnect."
+SR00210,2026-01-29,2026-02-12,Water,South,Low,14.4,3,38,Angry about the wait. Nobody explained the delay.
+SR00211,2026-03-29,2026-04-02,Waste,West,Low,4.4,3,34,Technician attended and marked the job done.
+SR00212,2026-04-23,2026-05-15,Roads,East,Low,21.9,1,25,This took far too long. The outage was terrible.
+SR00213,2026-02-16,2026-02-21,Roads,West,Medium,4.9,4,34,Technician attended and marked the job done.
+SR00214,2026-06-08,2026-06-13,Sanitation,CBD,Medium,5.5,4,12,Fixed on the first visit. Appreciate the update.
+SR00215,2026-04-19,2026-04-30,Sanitation,West,Low,10.5,3,34,Poor communication and slow repair. Not resolved properly.
+SR00216,2026-04-09,2026-04-16,Electricity,East,Medium,7.3,4,25,Team arrived quickly and fixed the issue. Thank you.
+SR00217,2026-05-14,2026-05-18,Electricity,South,Low,4.0,4,38,Work completed as logged.
+SR00218,2026-05-02,2026-05-04,Waste,North,Medium,2.3,5,22,Team arrived quickly and fixed the issue. Thank you.
+SR00219,2026-03-14,2026-03-26,Electricity,East,Medium,11.6,2,25,Angry about the wait. Nobody explained the delay.
+SR00220,2026-03-03,2026-03-07,Waste,South,Low,3.4,5,38,"Great service, the problem is resolved."
+SR00221,2026-04-24,2026-05-07,Electricity,North,High,13.4,1,22,Poor communication and slow repair. Not resolved properly.
+SR00222,2026-05-18,2026-05-29,Roads,West,Medium,10.9,1,34,Poor communication and slow repair. Not resolved properly.
+SR00223,2026-03-28,2026-03-31,Electricity,South,High,3.2,5,38,"Great service, the problem is resolved."
+SR00224,2026-02-02,2026-02-13,Electricity,East,Medium,10.4,1,25,Angry about the wait. Nobody explained the delay.
+SR00225,2026-05-26,2026-06-13,Roads,East,Medium,17.5,2,25,Angry about the wait. Nobody explained the delay.
+SR00226,2026-06-14,2026-06-26,Roads,East,Low,12.4,2,25,This took far too long. The outage was terrible.
+SR00227,2026-03-23,2026-03-26,Sanitation,North,High,2.4,5,22,Fixed on the first visit. Appreciate the update.
+SR00228,2026-06-03,2026-06-07,Sanitation,East,Medium,4.0,5,25,Work completed as logged.
+SR00229,2026-04-22,2026-04-23,Sanitation,West,Medium,1.3,5,34,"Great service, the problem is resolved."
+SR00230,2026-05-01,2026-05-05,Water,East,Medium,4.2,5,25,"Great service, the problem is resolved."
+SR00231,2026-04-09,2026-04-16,Electricity,North,Low,7.3,4,22,Work completed as logged.
+SR00232,2026-03-13,2026-03-29,Roads,East,High,16.0,1,25,Still leaking after the visit. Very delayed and frustrating.
+SR00233,2026-04-04,2026-04-10,Sanitation,CBD,Medium,5.9,3,12,"Great service, the problem is resolved."
+SR00234,2026-03-17,2026-03-20,Roads,CBD,Low,2.3,5,12,"Happy with the repair, well done CityConnect."
+SR00235,2026-01-19,2026-01-26,Electricity,South,Medium,7.1,5,38,Work completed as logged.
+SR00236,2026-03-25,2026-03-29,Sanitation,North,Medium,4.2,5,22,Still leaking after the visit. Very delayed and frustrating.
+SR00237,2026-05-31,2026-06-08,Sanitation,West,Medium,8.0,4,34,Angry about the wait. Nobody explained the delay.
+SR00238,2026-03-27,2026-04-01,Sanitation,West,Low,4.7,4,34,Technician attended and marked the job done.
+SR00239,2026-06-28,2026-07-09,Water,North,High,10.3,2,22,Poor communication and slow repair. Not resolved properly.
+SR00240,2026-01-15,2026-02-06,Water,North,Medium,21.9,1,22,Poor communication and slow repair. Not resolved properly.
+SR00241,2026-03-23,2026-04-02,Water,West,High,9.9,4,34,Request closed after the scheduled visit.
+SR00242,2026-06-28,2026-07-09,Electricity,East,High,10.5,1,25,Poor communication and slow repair. Not resolved properly.
+SR00243,2026-06-14,2026-06-25,Electricity,West,Low,10.6,3,34,Poor communication and slow repair. Not resolved properly.
+SR00244,2026-01-25,2026-02-01,Water,East,Medium,7.1,4,25,Request closed after the scheduled visit.
+SR00245,2026-04-11,2026-04-18,Roads,East,Low,7.0,5,25,Team arrived quickly and fixed the issue. Thank you.
+SR00246,2026-04-17,2026-05-01,Water,West,Low,13.9,1,34,Angry about the wait. Nobody explained the delay.
+SR00247,2026-05-25,2026-05-30,Waste,East,High,5.2,3,25,Technician attended and marked the job done.
+SR00248,2026-02-20,2026-02-26,Roads,CBD,Medium,5.7,3,12,Angry about the wait. Nobody explained the delay.
+SR00249,2026-06-18,2026-06-19,Waste,East,Medium,1.2,4,25,Fixed on the first visit. Appreciate the update.
+SR00250,2026-02-06,2026-02-08,Electricity,South,Medium,2.2,5,38,"Great service, the problem is resolved."
+SR00251,2026-04-13,2026-04-20,Electricity,West,Medium,7.2,5,34,Technician attended and marked the job done.
+SR00252,2026-03-19,2026-04-04,Electricity,North,Low,15.3,1,22,Poor communication and slow repair. Not resolved properly.
+SR00253,2026-03-31,2026-04-07,Water,East,Medium,7.0,4,25,Technician attended and marked the job done.
+SR00254,2026-01-11,2026-01-15,Waste,CBD,High,4.0,3,12,Request closed after the scheduled visit.
+SR00255,2026-02-23,2026-02-23,Waste,West,Medium,0.5,5,34,"Great service, the problem is resolved."
+SR00256,2026-01-10,2026-01-14,Water,North,Medium,3.9,4,22,Fixed on the first visit. Appreciate the update.
+SR00257,2026-04-10,2026-04-21,Electricity,West,Medium,11.7,2,34,Poor communication and slow repair. Not resolved properly.
+SR00258,2026-06-03,2026-06-18,Electricity,South,Low,14.4,2,38,Still leaking after the visit. Very delayed and frustrating.
+SR00259,2026-03-31,2026-04-01,Waste,West,Medium,0.7,4,34,Fixed on the first visit. Appreciate the update.
+SR00260,2026-05-31,2026-06-07,Electricity,South,High,6.7,3,38,Work completed as logged.
+SR00261,2026-04-14,2026-04-22,Roads,CBD,Low,7.4,4,12,Request closed after the scheduled visit.
+SR00262,2026-02-12,2026-02-20,Water,North,High,8.1,3,22,Request closed after the scheduled visit.
+SR00263,2026-05-24,2026-05-25,Electricity,West,High,1.2,4,34,Fixed on the first visit. Appreciate the update.
+SR00264,2026-05-21,2026-05-22,Waste,North,High,0.8,5,22,Team arrived quickly and fixed the issue. Thank you.
+SR00265,2026-04-02,2026-05-20,Water,East,Low,47.7,1,25,Angry about the wait. Nobody explained the delay.
+SR00266,2026-05-26,2026-06-03,Electricity,North,Medium,8.3,4,22,Still leaking after the visit. Very delayed and frustrating.
+SR00267,2026-04-16,2026-05-07,Roads,East,Medium,21.4,3,25,Still leaking after the visit. Very delayed and frustrating.
+SR00268,2026-01-06,2026-01-26,Water,CBD,Medium,20.6,2,12,This took far too long. The outage was terrible.
+SR00269,2026-02-02,2026-02-16,Water,West,Low,14.2,3,34,Still leaking after the visit. Very delayed and frustrating.
+SR00270,2026-01-07,2026-01-18,Sanitation,North,High,11.1,2,22,Angry about the wait. Nobody explained the delay.
+SR00271,2026-01-22,2026-01-30,Sanitation,North,Low,8.1,5,22,Request closed after the scheduled visit.
+SR00272,2026-06-28,2026-07-05,Electricity,North,Medium,6.7,5,22,Work completed as logged.
+SR00273,2026-04-28,2026-05-06,Water,North,High,8.3,4,22,Request closed after the scheduled visit.
+SR00274,2026-06-27,2026-07-02,Electricity,CBD,High,5.1,5,12,Work completed as logged.
+SR00275,2026-04-12,2026-04-20,Electricity,South,High,8.0,4,38,Poor communication and slow repair. Not resolved properly.
+SR00276,2026-03-20,2026-04-26,Water,South,Medium,36.6,1,38,Angry about the wait. Nobody explained the delay.
+SR00277,2026-05-22,2026-06-08,Waste,West,High,16.9,3,34,Poor communication and slow repair. Not resolved properly.
+SR00278,2026-01-10,2026-01-11,Waste,CBD,High,1.0,4,12,"Great service, the problem is resolved."
+SR00279,2026-03-17,2026-03-19,Waste,North,Medium,2.5,5,22,"Great service, the problem is resolved."
+SR00280,2026-04-13,2026-05-02,Electricity,South,Medium,19.4,2,38,Poor communication and slow repair. Not resolved properly.
+SR00281,2026-01-10,2026-01-14,Sanitation,South,Low,3.7,5,38,Fixed on the first visit. Appreciate the update.
+SR00282,2026-05-06,2026-05-16,Electricity,North,Low,10.3,2,22,This took far too long. The outage was terrible.
+SR00283,2026-05-08,2026-05-18,Electricity,West,High,10.2,3,34,Poor communication and slow repair. Not resolved properly.
+SR00284,2026-02-28,2026-03-11,Roads,West,Medium,10.7,2,34,Poor communication and slow repair. Not resolved properly.
+SR00285,2026-05-03,2026-05-16,Electricity,East,High,13.1,1,25,Angry about the wait. Nobody explained the delay.
+SR00286,2026-05-30,2026-06-04,Waste,North,High,4.7,4,22,"Great service, the problem is resolved."
+SR00287,2026-05-01,2026-05-14,Water,North,Medium,13.3,1,22,This took far too long. The outage was terrible.
+SR00288,2026-05-09,2026-05-15,Water,West,Medium,5.8,4,34,Technician attended and marked the job done.
+SR00289,2026-06-12,2026-06-15,Roads,North,Medium,3.2,5,22,Team arrived quickly and fixed the issue. Thank you.
+SR00290,2026-03-16,2026-03-19,Sanitation,West,Low,2.6,4,34,Fixed on the first visit. Appreciate the update.
+SR00291,2026-02-08,2026-03-07,Water,CBD,Low,27.0,2,12,Poor communication and slow repair. Not resolved properly.
+SR00292,2026-01-24,2026-01-31,Waste,East,Medium,7.0,3,25,"Great service, the problem is resolved."
+SR00293,2026-03-24,2026-03-29,Water,South,Medium,4.9,3,38,Team arrived quickly and fixed the issue. Thank you.
+SR00294,2026-04-30,2026-05-11,Roads,CBD,Medium,11.3,2,12,This took far too long. The outage was terrible.
+SR00295,2026-06-09,2026-06-13,Sanitation,CBD,Medium,3.6,4,12,"Great service, the problem is resolved."
+SR00296,2026-06-21,2026-06-28,Roads,West,Medium,6.7,3,34,Request closed after the scheduled visit.
+SR00297,2026-06-09,2026-06-18,Roads,North,Low,9.3,5,22,"Happy with the repair, well done CityConnect."
+SR00298,2026-01-28,2026-01-30,Waste,East,Medium,2.0,4,25,Fixed on the first visit. Appreciate the update.
+SR00299,2026-02-11,2026-02-15,Electricity,CBD,Low,3.9,5,12,"Great service, the problem is resolved."
+SR00300,2026-02-11,2026-02-14,Water,East,Low,3.2,4,25,"Happy with the repair, well done CityConnect."
+SR00301,2026-03-11,2026-03-26,Roads,East,Medium,15.5,2,25,Poor communication and slow repair. Not resolved properly.
+SR00302,2026-03-26,2026-03-27,Waste,CBD,Medium,0.9,5,12,"Great service, the problem is resolved."
+SR00303,2026-04-12,2026-04-18,Sanitation,North,Medium,5.8,5,22,Work completed as logged.
+SR00304,2026-06-18,2026-06-25,Roads,East,Medium,7.1,3,25,Request closed after the scheduled visit.
+SR00305,2026-04-29,2026-05-02,Waste,East,Medium,2.9,5,25,Team arrived quickly and fixed the issue. Thank you.
+SR00306,2026-02-19,2026-02-23,Roads,North,Medium,4.4,5,22,Angry about the wait. Nobody explained the delay.
+SR00307,2026-04-27,2026-05-01,Roads,West,Medium,3.9,4,34,"Happy with the repair, well done CityConnect."
+SR00308,2026-05-31,2026-06-07,Electricity,West,Medium,7.2,4,34,Poor communication and slow repair. Not resolved properly.
+SR00309,2026-03-29,2026-04-09,Electricity,CBD,Medium,11.3,1,12,This took far too long. The outage was terrible.
+SR00310,2026-02-28,2026-03-17,Electricity,South,High,16.6,1,38,Poor communication and slow repair. Not resolved properly.
+SR00311,2026-05-31,2026-06-04,Waste,North,Medium,3.7,5,22,Fixed on the first visit. Appreciate the update.
+SR00312,2026-01-23,2026-02-27,Water,West,Low,35.1,1,34,Angry about the wait. Nobody explained the delay.
+SR00313,2026-05-19,2026-05-26,Electricity,South,Low,7.3,5,38,This took far too long. The outage was terrible.
+SR00314,2026-03-30,2026-04-05,Roads,West,Medium,6.0,4,34,Technician attended and marked the job done.
+SR00315,2026-04-02,2026-04-11,Waste,East,Low,8.8,4,25,"Happy with the repair, well done CityConnect."
+SR00316,2026-04-23,2026-05-09,Water,West,Medium,16.2,2,34,Still leaking after the visit. Very delayed and frustrating.
+SR00317,2026-05-19,2026-05-20,Roads,North,Medium,1.5,4,22,Fixed on the first visit. Appreciate the update.
+SR00318,2026-04-25,2026-04-27,Sanitation,CBD,Medium,2.0,4,12,Team arrived quickly and fixed the issue. Thank you.
+SR00319,2026-05-12,2026-05-16,Water,West,High,4.4,3,34,Poor communication and slow repair. Not resolved properly.
+SR00320,2026-04-12,2026-04-16,Water,East,High,3.7,4,25,Fixed on the first visit. Appreciate the update.
+SR00321,2026-01-30,2026-02-12,Electricity,South,Medium,13.0,3,38,Poor communication and slow repair. Not resolved properly.
+SR00322,2026-06-22,2026-06-23,Sanitation,CBD,Medium,0.7,4,12,Fixed on the first visit. Appreciate the update.
+SR00323,2026-02-18,2026-02-23,Water,West,Medium,4.3,5,34,Request closed after the scheduled visit.
+SR00324,2026-03-04,2026-03-09,Waste,East,Medium,5.5,4,25,Angry about the wait. Nobody explained the delay.
+SR00325,2026-06-04,2026-06-11,Water,CBD,High,7.4,5,12,Technician attended and marked the job done.
+SR00326,2026-03-04,2026-03-14,Water,East,Low,10.1,2,25,This took far too long. The outage was terrible.
+SR00327,2026-03-30,2026-04-11,Waste,South,Medium,11.6,3,38,Still leaking after the visit. Very delayed and frustrating.
+SR00328,2026-05-29,2026-06-06,Water,South,Medium,8.0,4,38,Work completed as logged.
+SR00329,2026-05-13,2026-05-23,Sanitation,West,Medium,10.0,1,34,Poor communication and slow repair. Not resolved properly.
+SR00330,2026-06-12,2026-06-18,Water,West,Medium,5.4,3,34,Request closed after the scheduled visit.
+SR00331,2026-04-16,2026-05-18,Water,South,High,32.3,1,38,Angry about the wait. Nobody explained the delay.
+SR00332,2026-03-05,2026-03-08,Sanitation,South,Medium,2.5,4,38,"Great service, the problem is resolved."
+SR00333,2026-03-18,2026-04-26,Electricity,East,Medium,38.8,1,25,Poor communication and slow repair. Not resolved properly.
+SR00334,2026-04-13,2026-04-28,Water,CBD,Medium,15.0,1,12,Angry about the wait. Nobody explained the delay.
+SR00335,2026-02-23,2026-02-26,Water,West,High,2.7,5,34,Fixed on the first visit. Appreciate the update.
+SR00336,2026-02-05,2026-02-11,Roads,CBD,Medium,5.7,3,12,Request closed after the scheduled visit.
+SR00337,2026-03-22,2026-03-27,Sanitation,CBD,Medium,5.0,4,12,This took far too long. The outage was terrible.
+SR00338,2026-04-22,2026-04-28,Water,East,Medium,6.2,3,25,Request closed after the scheduled visit.
+SR00339,2026-02-21,2026-03-07,Waste,West,Low,14.0,3,34,Poor communication and slow repair. Not resolved properly.
+SR00340,2026-05-04,2026-05-11,Sanitation,CBD,Low,6.8,4,12,Poor communication and slow repair. Not resolved properly.
+SR00341,2026-02-23,2026-02-25,Sanitation,West,Medium,2.6,4,34,"Happy with the repair, well done CityConnect."
+SR00342,2026-02-19,2026-02-23,Waste,West,Low,3.8,4,34,"Happy with the repair, well done CityConnect."
+SR00343,2026-04-17,2026-05-02,Electricity,South,Medium,14.8,3,38,This took far too long. The outage was terrible.
+SR00344,2026-05-09,2026-05-13,Waste,East,Medium,4.2,3,25,Work completed as logged.
+SR00345,2026-03-25,2026-03-31,Water,South,High,5.9,5,38,Poor communication and slow repair. Not resolved properly.
+SR00346,2026-06-05,2026-06-14,Electricity,North,Medium,9.0,4,22,Angry about the wait. Nobody explained the delay.
+SR00347,2026-06-28,2026-07-12,Water,East,Medium,14.2,2,25,This took far too long. The outage was terrible.
+SR00348,2026-02-17,2026-02-20,Roads,North,High,2.7,4,22,"Happy with the repair, well done CityConnect."
+SR00349,2026-01-12,2026-01-18,Waste,North,Medium,6.3,5,22,Technician attended and marked the job done.
+SR00350,2026-04-09,2026-04-17,Electricity,North,High,7.9,5,22,Work completed as logged.
+SR00351,2026-06-19,2026-06-29,Waste,South,Medium,10.4,2,38,This took far too long. The outage was terrible.
+SR00352,2026-03-04,2026-03-06,Sanitation,South,High,2.4,4,38,"Great service, the problem is resolved."
+SR00353,2026-05-17,2026-05-27,Roads,East,Medium,9.8,4,25,Still leaking after the visit. Very delayed and frustrating.
+SR00354,2026-04-03,2026-04-05,Sanitation,CBD,Low,1.9,4,12,"Happy with the repair, well done CityConnect."
+SR00355,2026-04-13,2026-04-20,Water,North,High,7.0,3,22,Still leaking after the visit. Very delayed and frustrating.
+SR00356,2026-06-10,2026-06-13,Roads,North,Medium,2.9,5,22,"Great service, the problem is resolved."
+SR00357,2026-06-14,2026-06-16,Waste,North,High,2.2,5,22,"Great service, the problem is resolved."
+SR00358,2026-06-07,2026-06-22,Electricity,East,Medium,14.9,3,25,Still leaking after the visit. Very delayed and frustrating.
+SR00359,2026-01-13,2026-01-15,Water,East,High,2.1,5,25,Fixed on the first visit. Appreciate the update.
+SR00360,2026-06-07,2026-06-12,Sanitation,East,Low,5.1,3,25,This took far too long. The outage was terrible.
+SR00361,2026-03-15,2026-03-17,Waste,South,Medium,2.3,4,38,Fixed on the first visit. Appreciate the update.
+SR00362,2026-05-22,2026-05-25,Sanitation,East,Low,2.9,4,25,Team arrived quickly and fixed the issue. Thank you.
+SR00363,2026-03-04,2026-03-11,Electricity,East,Medium,6.6,4,25,Technician attended and marked the job done.
+SR00364,2026-03-24,2026-03-26,Electricity,East,Low,2.1,5,25,"Great service, the problem is resolved."
+SR00365,2026-06-02,2026-06-09,Sanitation,North,Medium,6.9,4,22,This took far too long. The outage was terrible.
+SR00366,2026-03-29,2026-03-31,Electricity,West,Medium,2.5,4,34,Fixed on the first visit. Appreciate the update.
+SR00367,2026-06-24,2026-06-30,Electricity,North,Medium,6.2,5,22,Request closed after the scheduled visit.
+SR00368,2026-03-18,2026-03-20,Roads,CBD,Medium,1.8,5,12,"Happy with the repair, well done CityConnect."
+SR00369,2026-01-18,2026-01-23,Water,East,Medium,4.5,4,25,Work completed as logged.
+SR00370,2026-04-24,2026-05-05,Roads,West,Low,11.2,1,34,Poor communication and slow repair. Not resolved properly.
+SR00371,2026-02-28,2026-03-03,Waste,CBD,Medium,2.9,5,12,"Happy with the repair, well done CityConnect."
+SR00372,2026-01-08,2026-01-12,Waste,East,Low,3.9,4,25,"Happy with the repair, well done CityConnect."
+SR00373,2026-02-02,2026-02-06,Sanitation,CBD,Low,4.0,4,12,Team arrived quickly and fixed the issue. Thank you.
+SR00374,2026-04-28,2026-05-04,Water,North,Low,6.3,5,22,Request closed after the scheduled visit.
+SR00375,2026-03-16,2026-03-20,Waste,West,Medium,3.4,5,34,Team arrived quickly and fixed the issue. Thank you.
+SR00376,2026-06-25,2026-07-05,Roads,West,Low,10.2,3,34,Poor communication and slow repair. Not resolved properly.
+SR00377,2026-03-30,2026-04-06,Electricity,East,Low,6.9,4,25,Technician attended and marked the job done.
+SR00378,2026-03-02,2026-03-04,Sanitation,South,High,1.9,4,38,Team arrived quickly and fixed the issue. Thank you.
+SR00379,2026-04-11,2026-04-14,Roads,South,Medium,2.5,5,38,"Great service, the problem is resolved."
+SR00380,2026-03-01,2026-03-08,Water,North,Medium,6.5,3,22,"Great service, the problem is resolved."
+SR00381,2026-02-18,2026-02-22,Water,South,High,3.7,5,38,"Happy with the repair, well done CityConnect."
+SR00382,2026-05-21,2026-05-28,Sanitation,North,Low,6.5,3,22,"Great service, the problem is resolved."
+SR00383,2026-02-09,2026-02-14,Sanitation,South,Medium,4.8,3,38,"Happy with the repair, well done CityConnect."
+SR00384,2026-06-13,2026-06-20,Sanitation,West,Medium,7.3,4,34,Team arrived quickly and fixed the issue. Thank you.
+SR00385,2026-04-06,2026-04-08,Sanitation,South,High,1.7,4,38,Fixed on the first visit. Appreciate the update.
+SR00386,2026-01-25,2026-01-27,Sanitation,North,Medium,2.0,5,22,Team arrived quickly and fixed the issue. Thank you.
+SR00387,2026-03-06,2026-03-18,Roads,South,Medium,12.5,2,38,Still leaking after the visit. Very delayed and frustrating.
+SR00388,2026-06-09,2026-06-12,Electricity,North,Medium,2.7,4,22,Fixed on the first visit. Appreciate the update.
+SR00389,2026-04-29,2026-05-28,Roads,West,Low,28.7,3,34,This took far too long. The outage was terrible.
+SR00390,2026-05-20,2026-05-27,Water,West,Medium,7.4,3,34,Technician attended and marked the job done.
+SR00391,2026-04-28,2026-06-23,Water,South,Low,55.5,1,38,Angry about the wait. Nobody explained the delay.
+SR00392,2026-04-07,2026-04-08,Waste,West,Medium,0.7,4,34,Fixed on the first visit. Appreciate the update.
+SR00393,2026-05-14,2026-06-06,Water,East,Medium,22.9,1,25,This took far too long. The outage was terrible.
+SR00394,2026-02-14,2026-02-15,Electricity,CBD,Low,0.7,5,12,"Happy with the repair, well done CityConnect."
+SR00395,2026-05-09,2026-05-12,Sanitation,West,Medium,3.4,5,34,"Happy with the repair, well done CityConnect."
+SR00396,2026-03-30,2026-04-01,Sanitation,East,Low,2.1,4,25,"Happy with the repair, well done CityConnect."
+SR00397,2026-01-16,2026-01-22,Waste,CBD,High,5.7,5,12,Poor communication and slow repair. Not resolved properly.
+SR00398,2026-03-30,2026-04-02,Sanitation,West,Low,2.8,4,34,Fixed on the first visit. Appreciate the update.
+SR00399,2026-02-17,2026-02-18,Electricity,East,Medium,0.9,4,25,Fixed on the first visit. Appreciate the update.
+SR00400,2026-01-09,2026-01-15,Waste,West,Medium,6.1,4,34,"Happy with the repair, well done CityConnect."
+SR00401,2026-03-07,2026-04-06,Water,East,Low,29.4,3,25,This took far too long. The outage was terrible.
+SR00402,2026-05-20,2026-05-29,Electricity,South,Medium,9.0,3,38,Technician attended and marked the job done.
+SR00403,2026-06-11,2026-06-23,Roads,West,Low,11.9,1,34,Poor communication and slow repair. Not resolved properly.
+SR00404,2026-01-19,2026-01-25,Electricity,South,Low,5.9,4,38,This took far too long. The outage was terrible.
+SR00405,2026-04-08,2026-04-19,Water,South,Low,10.7,2,38,Poor communication and slow repair. Not resolved properly.
+SR00406,2026-05-09,2026-05-19,Water,CBD,High,9.8,5,12,"Great service, the problem is resolved."
+SR00407,2026-01-25,2026-03-01,Electricity,West,Low,34.7,3,34,This took far too long. The outage was terrible.
+SR00408,2026-05-19,2026-05-26,Waste,South,Low,7.6,5,38,Technician attended and marked the job done.
+SR00409,2026-03-04,2026-03-06,Roads,CBD,Low,1.8,5,12,Fixed on the first visit. Appreciate the update.
+SR00410,2026-02-18,2026-02-26,Electricity,West,Medium,8.0,5,34,Technician attended and marked the job done.
+SR00411,2026-02-20,2026-02-23,Waste,North,Medium,3.3,5,22,"Great service, the problem is resolved."
+SR00412,2026-05-02,2026-05-05,Electricity,East,High,2.5,5,25,Fixed on the first visit. Appreciate the update.
+SR00413,2026-03-06,2026-03-18,Water,CBD,Medium,11.7,2,12,Angry about the wait. Nobody explained the delay.
+SR00414,2026-04-04,2026-04-15,Roads,West,Medium,11.1,2,34,Angry about the wait. Nobody explained the delay.
+SR00415,2026-03-15,2026-03-18,Waste,South,High,2.7,5,38,Fixed on the first visit. Appreciate the update.
+SR00416,2026-01-22,2026-02-28,Water,West,Medium,36.9,3,34,Still leaking after the visit. Very delayed and frustrating.
+SR00417,2026-02-06,2026-02-19,Electricity,West,Low,13.3,2,34,Angry about the wait. Nobody explained the delay.
+SR00418,2026-01-13,2026-02-12,Water,South,Low,30.1,2,38,Angry about the wait. Nobody explained the delay.
+SR00419,2026-05-20,2026-05-23,Electricity,East,Low,3.4,4,25,"Great service, the problem is resolved."
+SR00420,2026-03-19,2026-03-24,Water,North,Medium,4.8,4,22,Technician attended and marked the job done.

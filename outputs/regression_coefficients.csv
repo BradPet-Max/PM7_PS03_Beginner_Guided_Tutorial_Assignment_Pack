@@ -1,0 +1,12 @@
+term,coefficient
+service_type_Water,6.63
+region_South,5.29
+region_West,4.21
+priority_Low,3.48
+region_East,3.3
+intercept,3.19
+service_type_Roads,2.26
+region_North,1.4
+priority_Medium,1.16
+service_type_Sanitation,-2.56
+service_type_Waste,-3.78

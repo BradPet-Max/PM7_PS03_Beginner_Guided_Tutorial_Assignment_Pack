@@ -1,0 +1,5 @@
+,resolution_days,satisfaction_rating,travel_minutes,priority_score
+resolution_days,1.0,-0.59,0.22,-0.13
+satisfaction_rating,-0.59,1.0,-0.15,0.05
+travel_minutes,0.22,-0.15,1.0,-0.02
+priority_score,-0.13,0.05,-0.02,1.0
